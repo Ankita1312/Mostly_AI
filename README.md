@@ -50,4 +50,5 @@ npx cypress open
 * Now Select the Chrome Browser and Start you E2E testing
 This will open the Cypress Test Runner, and you can click on a test file to run its tests and see the results in the browser.
 ### Tests
-Tests are under the e2e file and screenshots and videos are also added in cypress\screenshots and cypress\videos
+Tests are under the e2e file and screenshots are also added in cypress\screenshots.
+All the tests are passing.
