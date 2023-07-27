@@ -9,7 +9,7 @@ This repository contains automated tests for Mostly AI, a synthetic data generat
 Before running the tests, make sure you have the following installed on your machine:
 
 - Node.js
-- Cypress 
+
 ### Clone this repository
 If you want to run this in your local machine you have to clone this repository.Follow the below steps:
 
